@@ -8,6 +8,7 @@ import bootstrap from "../assets/Bootstrap.png";
 import mongodb from "../assets/mongodb.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import vite from "../assets/vite.png";
 
 const Experience = () => {
     const techs = [
@@ -58,6 +59,12 @@ const Experience = () => {
           src: github,
           title: "GitHub",
           style: "shadow-gray-400",
+        },
+        {
+          id: 9,
+          src: vite,
+          title: "Vite",
+          style: "shadow-pink-400",
         },
       ];    
   return (
