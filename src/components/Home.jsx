@@ -12,7 +12,7 @@ function Home() {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a FrontEnd Developer
+            Hi I'm Saurabh
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I design and build clean, user-friendly web applications, and I'm passionate about what I do. My current focus is on developing responsive interfaces using HTML5, CSS, JavaScript, React, Tailwind, and Bootstrap. I also have hands-on experience creating and managing web pages using AEM and Contentful CMS.
