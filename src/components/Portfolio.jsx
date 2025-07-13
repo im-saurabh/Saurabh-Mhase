@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import TipCalculator from "../assets/portfolio/tipcalculator.jpg";
-import ChatBot from "../assets/portfolio/chatbot.jpg";
 import AIImageGeneration from "../assets/portfolio/ai image generation.jpg";
 import WeatherApp from "../assets/portfolio/weather app.jpg";
 import ShoppingApp from "../assets/portfolio/shop cart.jpg";
@@ -13,12 +12,6 @@ const Portfolio = () => {
       src: TipCalculator,
       demo: "https://tip-calculator-im-saurabh.vercel.app/",
       code: "https://github.com/im-saurabh/Tip_Calculator",
-    },
-    {
-      id: 2,
-      src: ChatBot,
-      demo: "https://mr-codex-im-saurabh.vercel.app/",
-      code: "https://github.com/im-saurabh/Mr-CodeX",
     },
     {
       id: 3,
