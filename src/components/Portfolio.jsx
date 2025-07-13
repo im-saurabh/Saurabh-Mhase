@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import TipCalculator from "../assets/portfolio/tipcalculator.jpg";
 import Resort from "../assets/portfolio/resort.jpg";
 import WeatherApp from "../assets/portfolio/weather app.jpg";
-import ShoppingApp from "../assets/portfolio/shop cart.jpg";
 import MechanicShop from "../assets/portfolio/mechanic shop.jpg"
 
 const Portfolio = () => {
@@ -24,12 +23,6 @@ const Portfolio = () => {
       src: WeatherApp,
       demo: "https://weather-app-react-im-saurabh.vercel.app/",
       code: "https://github.com/im-saurabh/React-Weather-App",
-    },
-    {
-      id: 5,
-      src: ShoppingApp,
-      demo: "https://shop-cart-im-saurabh.vercel.app/",
-      code: "https://github.com/im-saurabh/Shop-cart",
     },
     {
       id:6,
