@@ -15,9 +15,7 @@ function Home() {
             I'm a FrontEnd Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I design and code beautifully simple things, and I Love What I do.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, BootStrap and Vite
+            I design and build clean, user-friendly web applications, and I'm passionate about what I do. My current focus is on developing responsive interfaces using HTML5, CSS, JavaScript, React, Tailwind, and Bootstrap. I also have hands-on experience creating and managing web pages using AEM and Contentful CMS.
           </p>
 
           <div>
