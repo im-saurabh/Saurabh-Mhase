@@ -21,9 +21,10 @@ const About = () => {
         <br />
 
         <p className="text-xl mb-5">
-          Additionally, I am familiar with modern development tools and
-          libraries such as Visual Studio, GitHub, and Vite, which enables me to
-          deliver high-quality code that meets industry standards
+          Additionally, I have 1.11 years of experience in the IT industry, specifically AEM development and AEM CMS content authoring. 
+          Worked on developing components, experience fragments, editable templates, content fragments, and component enhancements.
+          Worked on creating web pages and managing web content according to specifications.
+          Manage tasks effectively, track progress, and prioritize updates while maintaining open communication throughout the development process.
         </p>
 
         <br />
