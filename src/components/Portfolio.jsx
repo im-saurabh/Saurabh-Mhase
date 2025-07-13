@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import TipCalculator from "../assets/portfolio/tipcalculator.jpg";
-import AIImageGeneration from "../assets/portfolio/ai image generation.jpg";
+import Resort from "../assets/portfolio/resort.jpg";
 import WeatherApp from "../assets/portfolio/weather app.jpg";
 import ShoppingApp from "../assets/portfolio/shop cart.jpg";
 import MechanicShop from "../assets/portfolio/mechanic shop.jpg"
@@ -15,9 +15,9 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: AIImageGeneration,
-      demo: "https://ai-image-generation-im-saurabh.vercel.app/",
-      code: "https://github.com/im-saurabh/Ai-image-generation",
+      src: Resort,
+      demo: "https://resort-alpha-five.vercel.app/",
+      code: "https://github.com/im-saurabh/H-Capital-Resort",
     },
     {
       id: 4,
